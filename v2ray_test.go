@@ -1,4 +1,4 @@
-package core_test
+طز طز طز طpackage core_test
 
 import (
 	"testing"
